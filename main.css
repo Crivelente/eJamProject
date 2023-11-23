@@ -1,0 +1,211 @@
+body{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 0;
+}
+
+.container-nav{
+    background-color: rgba(37, 47, 61, 1);
+    color: white;
+    display: inline-flex;
+    /* padding: 0px 25px; */
+    width: 100%;
+}
+
+.itens{
+    margin: 20px 20px 20px 20px;
+    padding-left: 5.2px;
+}
+
+.container-logos{
+    display: inline-flex;
+}
+
+#logoClarifion{
+    width: 75%;
+    margin-left: 25px;
+}
+
+.logoClarifion{
+    margin-right: 20px;
+}
+
+#logoMcNorton{
+    width: 25%;
+    margin-left: 750px;
+    margin-top: 15px;
+}
+
+.container-text{
+    text-align: center;
+}
+
+.container-steps{
+    display:inline-flex;
+    margin: 20px;
+    align-items:normal;
+}
+
+.step{
+    margin:20px 60px;
+    font-size: x-large;
+}
+
+#imgProduct{
+    width: 60%;
+}
+
+#perfil{
+    width: 30%;
+}
+
+.product{
+    margin-right: 0px;
+}
+
+.feedback{
+    border-radius: 10%;
+	margin-right: 250px;
+    text-justify:distribute;
+    margin-bottom: 35px;
+}
+
+.container-order{
+    display:flex;
+    padding-right: 200px;
+    padding-left: 250px;
+}
+
+.container-description{
+    float: left;
+    display: inline;
+}
+
+#proClarifion{
+    background-color: rgba(44, 126, 248, 1);
+    padding: 10px 20px;
+    border-radius: 5%;
+    width: 130%;
+}
+
+.box-clarifion{
+    display: inline-flex;
+    position: absolute;
+}
+
+.infoClarifion{
+    /* display: inline-flex; */
+    margin-left: 20px;
+    /* position: absolute; */
+}
+
+.name{
+   padding-left: 55px;
+   margin-right: 10px; 
+}
+
+.star{
+    display: inline-flex;
+    padding-left: 55px;
+    padding-bottom: 10px;
+}
+
+.box-stock{
+    margin-left: 55px;
+}
+
+.box-check{
+    margin-top:250px;
+}
+
+/* .price{
+    display: inline-flex;
+} */
+
+.check{
+  margin-top:10px;  
+}
+
+.box-extra{
+    margin:25px 0px;
+    background-color: rgb(221, 228, 238);
+    border-radius: 5%;
+    padding: 10px 25px;
+}
+
+.button-yes{
+ display: inline-flex;
+}
+
+.buttons{
+    margin-top:25px;
+    margin-left:235px;
+}
+
+#button-n{
+    color: red;
+    background-color: white;
+    border-color: rgba(255, 255, 255, 0);
+    font-size: medium;
+    text-decoration: underline;
+}
+
+#button-y{
+    color: white;
+    background-color:rgba(89, 174, 67, 1) ;
+    border-color: rgba(255, 228, 196, 0);
+    padding: 5px 20px;
+    /* margin-left: 255px; */
+    border-radius: 2%;
+    margin-bottom: 25px;
+    margin-right: 50px;
+    font-size:medium;
+    /* padding-left: 205px; */
+    text-align: center;
+}
+
+#button-y:hover{
+    transform: scale(1.1);
+}
+
+#button-n:hover{
+    background-color: red;
+    color: white;
+    font-size: medium;
+    text-decoration: none;
+}
+
+.buttons{
+    display: inline-flex;
+}
+
+.guarantee{
+    margin-right: 530px;
+}
+
+#imgLogoG{
+    width: 80%;
+    margin-top:10px;
+}
+
+.logo-guarantee{
+    display: inline-flex;
+    margin-top:20px;
+}
+
+.box-footer{
+    background-color: rgba(37, 47, 61, 1);
+    display: inline-flex;
+    color: white;
+    padding: 20px 100px;
+    position:absolute;
+    width: 87%;
+    margin-bottom: 0px;
+}
+
+.footer-item{
+    margin-right: 210px;
+    margin-left: 155px;
+}
+
+
+
